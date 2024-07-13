@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stirtic.github.io/sitemap
+Sitemap: https://stirtic.github.io/app/sitemap
+Sitemap: https://stirtic.github.io/assets/sitemap
+Sitemap: https://stirtic.github.io/css/sitemap
+Sitemap: https://stirtic.github.io/includes/sitemap
+Sitemap: https://stirtic.github.io/item/sitemap
+Sitemap: https://stirtic.github.io/src/sitemap
